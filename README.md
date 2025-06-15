@@ -22,7 +22,8 @@ A modern, interactive Quiz App with a splash screen, random questions, instant f
 
 ## 🖼️ Screenshots
 
-_Add your screenshots here if you like!_
+![image](https://github.com/user-attachments/assets/a404435a-e421-4bd4-a4dd-64109d4144ff)
+
 
 ---
 
