@@ -29,7 +29,7 @@ _Add your screenshots here if you like!_
 ## 🛠️ How to Run
 
 1. **Clone or Download this Repository:**
-   git clone 
+   git clone https://github.com/maryam745/Quiz-App
 Or download the ZIP and extract.
 
 3. **Open `index.html` in your browser.**  
